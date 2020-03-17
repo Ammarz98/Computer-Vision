@@ -5,3 +5,4 @@
 ## Clustering and Segmentation
 ## Tracking
 ## Face detection
+Please find zip files for all these exercises attached.
